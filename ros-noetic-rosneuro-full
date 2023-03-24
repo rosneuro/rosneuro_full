@@ -1,0 +1,9 @@
+Section: misc
+Priority: optional
+Standards-Version: 3.9.2
+Version: 2.0focal
+Package: ros-noetic-rosneuro-full
+Maintainer: Luca Tonin <luca.tonin@unipd.it>
+Depends: libbeegdev0, libeegdev-dev, eegdev-plugins-free, ros-noetic-rosneuro-msgs, ros-noetic-rosneuro-data, ros-noetic-rosneuro-acquisition, ros-noetic-rosneuro-acquisition-eegdev, ros-noetic-rosneuro-recorder, ros-noetic-rosneuro-buffers, ros-noetic-rosneuro-filters, ros-noetic-rosneuro-visualizer
+Description: ROS-Neuro packages
+ All ROS-Neuro packages currently available
