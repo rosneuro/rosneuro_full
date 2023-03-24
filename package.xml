@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>rosneuro_full</name>
+  <version>2.0.0</version>
+  <description>ROSNEURO metapackage for full installation</description>
+  <author email="luca.tonin@unipd.it">Luca Tonin</author>
+  <maintainer email="luca.tonin@unipd.it">Luca Tonin</maintainer>
+
+  <license>GPLv3</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>rosneuro_data</exec_depend>
+  <exec_depend>rosneuro_msgs</exec_depend>
+  <exec_depend>rosneuro_acquisition</exec_depend>
+  <exec_depend>rosneuro_acquisition_eegdev</exec_depend>
+  <exec_depend>rosneuro_recorder</exec_depend>
+  <exec_depend>rosneuro_filters</exec_depend>
+  <exec_depend>rosneuro_buffers</exec_depend>
+  <exec_depend>rosneuro_visualizer</exec_depend>
+  
+  <export>
+   <metapackage />
+  </export>
+
+  
+
+</package>
