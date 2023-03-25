@@ -13,7 +13,6 @@
   <exec_depend>rosneuro_msgs</exec_depend>
   <exec_depend>rosneuro_acquisition</exec_depend>
   <exec_depend>rosneuro_acquisition_eegdev</exec_depend>
-  <exec_depend>rosneuro_acquisition_lsl</exec_depend>
   <exec_depend>rosneuro_recorder</exec_depend>
   <exec_depend>rosneuro_visualizer</exec_depend>
   <exec_depend>rosneuro_filters</exec_depend>
